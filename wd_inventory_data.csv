@@ -1,0 +1,51 @@
+WD_Location,SKU_ID,Product_Category,Current_Stock_Qty,Avg_Daily_Demand,Transit_Lead_Time_Days,Last_Delivery_OTIF_Status
+Ranchi,SKU-1001,Snacks,228,25,8,On-Time
+Lucknow,SKU-1008,Snacks,134,25,5,Delayed
+Ranchi,SKU-1015,Personal Care,147,25,5,On-Time
+Kolkata,SKU-1022,Personal Care,120,70,7,Delayed
+Ranchi,SKU-1029,Dairy & Frozen,421,150,4,Delayed
+Bhubaneswar,SKU-1036,Home Care,3007,260,5,On-Time
+Patna,SKU-1043,Beverages,659,70,2,Delayed
+Lucknow,SKU-1050,Snacks,662,260,5,On-Time
+Raipur,SKU-1057,Dairy & Frozen,469,55,4,On-Time
+Bhubaneswar,SKU-1064,Snacks,1780,200,8,Delayed
+Raipur,SKU-1071,Packaged Foods,278,18,3,On-Time
+Guwahati,SKU-1078,Packaged Foods,349,90,3,On-Time
+Bhubaneswar,SKU-1085,Snacks,348,260,2,On-Time
+Bhubaneswar,SKU-1092,Snacks,56,25,7,Delayed
+Bhubaneswar,SKU-1099,Beverages,2556,150,4,On-Time
+Patna,SKU-1106,Personal Care,1077,70,4,On-Time
+Jamshedpur,SKU-1113,Snacks,63,120,7,On-Time
+Patna,SKU-1120,Personal Care,145,40,2,On-Time
+Raipur,SKU-1127,Beverages,2164,150,3,On-Time
+Kolkata,SKU-1134,Home Care,754,150,6,Delayed
+Patna,SKU-1141,Packaged Foods,1795,90,6,On-Time
+Raipur,SKU-1148,Home Care,145,40,3,Delayed
+Patna,SKU-1155,Snacks,158,18,5,On-Time
+Ranchi,SKU-1162,Packaged Foods,405,70,2,On-Time
+Raipur,SKU-1169,Dairy & Frozen,1418,150,5,On-Time
+Raipur,SKU-1176,Snacks,2026,120,5,On-Time
+Guwahati,SKU-1183,Beverages,1307,90,7,On-Time
+Ranchi,SKU-1190,Beverages,305,90,2,On-Time
+Patna,SKU-1197,Beverages,244,40,5,Delayed
+Bhubaneswar,SKU-1204,Packaged Foods,865,40,9,Delayed
+Ranchi,SKU-1211,Snacks,4158,260,2,On-Time
+Patna,SKU-1218,Beverages,1111,90,4,On-Time
+Jamshedpur,SKU-1225,Home Care,632,90,4,On-Time
+Bhubaneswar,SKU-1232,Home Care,2742,150,8,On-Time
+Bhubaneswar,SKU-1239,Packaged Foods,52,18,5,Delayed
+Lucknow,SKU-1246,Dairy & Frozen,206,18,2,On-Time
+Kolkata,SKU-1253,Snacks,882,150,2,On-Time
+Ranchi,SKU-1260,Snacks,82,90,5,On-Time
+Jamshedpur,SKU-1267,Packaged Foods,1191,90,3,On-Time
+Bhubaneswar,SKU-1274,Personal Care,4128,260,5,On-Time
+Kolkata,SKU-1281,Home Care,249,120,6,On-Time
+Jamshedpur,SKU-1288,Beverages,4597,200,9,On-Time
+Patna,SKU-1295,Beverages,171,32,6,On-Time
+Lucknow,SKU-1302,Packaged Foods,87,32,6,Delayed
+Jamshedpur,SKU-1309,Personal Care,1678,260,6,On-Time
+Ranchi,SKU-1316,Personal Care,530,150,3,Delayed
+Lucknow,SKU-1323,Packaged Foods,1625,260,5,Delayed
+Bhubaneswar,SKU-1330,Home Care,31,25,2,On-Time
+Jamshedpur,SKU-1337,Beverages,141,32,7,Delayed
+Raipur,SKU-1344,Dairy & Frozen,1666,150,8,Delayed
